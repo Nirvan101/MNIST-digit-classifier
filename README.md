@@ -1,0 +1,1 @@
+This is a classifier for handwritten digits. It uses the MNIST dataset of handwritten digits for training. This is my solution for the MNIST challenge on Kaggle (https://www.kaggle.com/c/digit-recognizer) . I obtained a 98.84% accuracy with this classifier. 
